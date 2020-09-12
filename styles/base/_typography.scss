@@ -28,6 +28,7 @@ $font-s: 1.8rem;
 	color: var(--black);
 	&--main {
 		font-family: $font-secondary, helvetica, arial, sans-serif;
+		font-size: $font-m;
 		font-weight: $bold;
 	}
 	&--sub {

@@ -1,6 +1,7 @@
 .layout-default {
 	background-color: var(--white);
 	width: 100%;
+	min-width: $big_desktop;
 	min-height: 100vh;
 	height: 100%;
 	background-image: url(https://www.alexcoven.com/assets/img/hero.png);
